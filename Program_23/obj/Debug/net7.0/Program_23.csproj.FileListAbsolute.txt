@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\QDev Programs\Program_23\bin\Debug\net7.0\Program_23.exe
+C:\Users\asus\source\repos\QDev Programs\Program_23\bin\Debug\net7.0\Program_23.deps.json
+C:\Users\asus\source\repos\QDev Programs\Program_23\bin\Debug\net7.0\Program_23.runtimeconfig.json
+C:\Users\asus\source\repos\QDev Programs\Program_23\bin\Debug\net7.0\Program_23.dll
+C:\Users\asus\source\repos\QDev Programs\Program_23\bin\Debug\net7.0\Program_23.pdb
+C:\Users\asus\source\repos\QDev Programs\Program_23\obj\Debug\net7.0\Program_23.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\QDev Programs\Program_23\obj\Debug\net7.0\Program_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\QDev Programs\Program_23\obj\Debug\net7.0\Program_23.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\QDev Programs\Program_23\obj\Debug\net7.0\Program_23.AssemblyInfo.cs
+C:\Users\asus\source\repos\QDev Programs\Program_23\obj\Debug\net7.0\Program_23.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\QDev Programs\Program_23\obj\Debug\net7.0\Program_23.dll
+C:\Users\asus\source\repos\QDev Programs\Program_23\obj\Debug\net7.0\refint\Program_23.dll
+C:\Users\asus\source\repos\QDev Programs\Program_23\obj\Debug\net7.0\Program_23.pdb
+C:\Users\asus\source\repos\QDev Programs\Program_23\obj\Debug\net7.0\Program_23.genruntimeconfig.cache
+C:\Users\asus\source\repos\QDev Programs\Program_23\obj\Debug\net7.0\ref\Program_23.dll
