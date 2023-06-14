@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\QDev Programs\Program_10\bin\Debug\net7.0\Program_10.exe
+C:\Users\asus\source\repos\QDev Programs\Program_10\bin\Debug\net7.0\Program_10.deps.json
+C:\Users\asus\source\repos\QDev Programs\Program_10\bin\Debug\net7.0\Program_10.runtimeconfig.json
+C:\Users\asus\source\repos\QDev Programs\Program_10\bin\Debug\net7.0\Program_10.dll
+C:\Users\asus\source\repos\QDev Programs\Program_10\bin\Debug\net7.0\Program_10.pdb
+C:\Users\asus\source\repos\QDev Programs\Program_10\obj\Debug\net7.0\Program_10.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\QDev Programs\Program_10\obj\Debug\net7.0\Program_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\QDev Programs\Program_10\obj\Debug\net7.0\Program_10.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\QDev Programs\Program_10\obj\Debug\net7.0\Program_10.AssemblyInfo.cs
+C:\Users\asus\source\repos\QDev Programs\Program_10\obj\Debug\net7.0\Program_10.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\QDev Programs\Program_10\obj\Debug\net7.0\Program_10.dll
+C:\Users\asus\source\repos\QDev Programs\Program_10\obj\Debug\net7.0\refint\Program_10.dll
+C:\Users\asus\source\repos\QDev Programs\Program_10\obj\Debug\net7.0\Program_10.pdb
+C:\Users\asus\source\repos\QDev Programs\Program_10\obj\Debug\net7.0\Program_10.genruntimeconfig.cache
+C:\Users\asus\source\repos\QDev Programs\Program_10\obj\Debug\net7.0\ref\Program_10.dll
